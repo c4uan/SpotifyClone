@@ -21,7 +21,6 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 SpotifyClone/
 ├── src/
 │   ├── components/
-│   ├── pages/
 │   ├── assets/
 │   └── App.js
 ├── .gitignore
@@ -32,7 +31,6 @@ SpotifyClone/
 
 - **src/**: Contém o código-fonte do projeto.
   - **components/**: Componentes reutilizáveis da interface.
-  - **pages/**: Páginas principais da aplicação.
   - **assets/**: Arquivos estáticos como imagens e ícones.
   - **App.js**: Componente principal da aplicação.
 - **.gitignore**: Arquivos e pastas ignorados pelo Git.
