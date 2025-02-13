@@ -5,8 +5,8 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 ## 📌 Funcionalidades
 
 - 🎵 Interface semelhante ao Spotify
-- ▶️ Reprodução de músicas (W.I.P.)
-- 📂 Navegação entre playlists e álbuns (W.I.P.)
+- ▶️ Reprodução de músicas
+- 📂 Navegação entre playlists e álbuns
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -21,6 +21,7 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 SpotifyClone/
 ├── src/
 │   ├── components/
+│   ├── pages/
 │   ├── assets/
 │   └── App.js
 ├── .gitignore
@@ -31,6 +32,7 @@ SpotifyClone/
 
 - **src/**: Contém o código-fonte do projeto.
   - **components/**: Componentes reutilizáveis da interface.
+  - **pages/**: Páginas principais da aplicação.
   - **assets/**: Arquivos estáticos como imagens e ícones.
   - **App.js**: Componente principal da aplicação.
 - **.gitignore**: Arquivos e pastas ignorados pelo Git.
