@@ -9,7 +9,16 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 - 📂 Navegação entre playlists e álbuns
 
 ## Homepage
-  ![Homepage do SpotifyClone](screenshots/homepage.png)
+
+![Homepage do SpotifyClone](screenshots/homepage.png)
+
+## Artist page
+
+![Artist page do SpotifyClone](screenshots/artistpage.png)
+
+## Music page
+
+![Music page do SpotifyClone](screenshots/songpage.png)
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -46,11 +55,13 @@ SpotifyClone/
 ## 🚀 Instalação
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/c4uan/SpotifyClone.git
    ```
 
 2. Navegue até o diretório do projeto:
+
    ```bash
    cd SpotifyClone
    ```
@@ -77,6 +88,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
-
-
