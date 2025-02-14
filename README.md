@@ -10,15 +10,15 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 
 ## Homepage
 
-![Homepage do SpotifyClone](screenshots/homepage.png)
+![Homepage do SpotifyClone](front-end/screenshots/homepage.png)
 
 ## Artist page
 
-![Artist page do SpotifyClone](screenshots/artistpage.png)
+![Artist page do SpotifyClone](front-end/screenshots/artistpage.png)
 
 ## Music page
 
-![Music page do SpotifyClone](screenshots/songpage.png)
+![Music page do SpotifyClone](front-end/screenshots/songpage.png)
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -31,26 +31,20 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 
 ```
 SpotifyClone/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── App.js
-├── .gitignore
-├── index.html
-├── package.json
-└── vite.config.js
+├── back-end/
+│   ├── api/
+│   └── package.json # Dependências e scripts do back-end
+|   └── package-lock.json 
+├── front-end/               # Contém todo o código do front-end
+│   ├── public/              # Arquivos públicos (ex.: index.html)
+│   ├── src/                 # Código-fonte (componentes, assets, etc.)
+│   ├── package.json         # Dependências e scripts do front-end
+│   ├── package-lock.json
+│   └── vite.config.js       # Configuração do Vite
+├── .gitignore               # Arquivos e pastas ignorados pelo Git
+├── eslint.config.js         # Configuração do ESLint
+└── README.md                # Documentação do projeto
 ```
-
-- **src/**: Contém o código-fonte do projeto.
-  - **components/**: Componentes reutilizáveis da interface.
-  - **pages/**: Páginas principais da aplicação.
-  - **assets/**: Arquivos estáticos como imagens e ícones.
-  - **App.js**: Componente principal da aplicação.
-- **.gitignore**: Arquivos e pastas ignorados pelo Git.
-- **index.html**: Arquivo HTML principal.
-- **package.json**: Gerenciamento de dependências e scripts.
-- **vite.config.js**: Configurações do Vite para o projeto.
 
 ## 🚀 Instalação
 
