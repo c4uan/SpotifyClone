@@ -2,6 +2,8 @@
 
 Um clone do Spotify desenvolvido com React e JavaScript.
 
+- Acesse o projeto aqui -> https://spotifyclone-ln2u.onrender.com
+
 ## 📌 Funcionalidades
 
 - 🎵 Interface semelhante ao Spotify
