@@ -8,6 +8,8 @@ Um clone do Spotify desenvolvido com React e JavaScript.
 - ▶️ Reprodução de músicas
 - 📂 Navegação entre playlists e álbuns
 
+OBS: Cada artista possui apenas uma música baixada.
+
 ## 🖥️ Interface
 
 - Homepage
